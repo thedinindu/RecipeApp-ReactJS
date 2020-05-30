@@ -1,0 +1,18 @@
+
+.btn-default {
+    color: #a6c0fe;
+    letter-spacing: 1px;
+    line-height: 15px;
+    border: 2px solid #a6c0fe;
+    border-radius: 40px;
+    background: transparent;
+    padding: 10px 20px;
+    transition: all 0.3s ease 0s;
+  }
+
+  .btn-default:hover {
+    color: #FFF;
+    background: #f68084;
+    border: 2px solid #FFF;
+  }
+  
